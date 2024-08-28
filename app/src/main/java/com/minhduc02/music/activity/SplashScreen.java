@@ -15,5 +15,6 @@ public class SplashScreen extends AppCompatActivity {
         binding = ActivitySplashScreenBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+
     }
 }
