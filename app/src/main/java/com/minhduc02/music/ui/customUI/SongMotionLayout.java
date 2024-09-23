@@ -1,4 +1,4 @@
-package com.minhduc02.music.activity.customUI;
+package com.minhduc02.music.ui.customUI;
 
 import android.content.Context;
 import android.util.AttributeSet;

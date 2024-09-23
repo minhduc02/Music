@@ -16,7 +16,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".activity.LoginAndSignUpActivity"
+            android:name=".ui.activity.LoginAndSignUpActivity"
             android:exported="false" />
         <activity
             android:name=".activity.LoginAndSignUp"
@@ -37,10 +37,10 @@
             android:name=".activity.MusicPlayerActivity"
             android:exported="false" />
         <activity
-            android:name=".activity.SplashScreen"
+            android:name=".ui.activity.SplashScreen"
             android:exported="false" />
         <activity
-            android:name=".activity.MainActivity"
+            android:name=".ui.activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

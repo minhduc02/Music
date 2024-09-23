@@ -1,4 +1,4 @@
-package com.minhduc02.music.fragment;
+package com.minhduc02.music.ui.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
